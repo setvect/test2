@@ -10,7 +10,7 @@ spring:
       dialect: org.hibernate.dialect.PostgreSQLDialect
       ddl-auto: update
   rabbitmq:
-    host: localhost
+    host: 10.178.0.10
     username: guest
     password: guest
     port: 5672
